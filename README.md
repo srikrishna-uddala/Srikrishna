@@ -2,13 +2,13 @@
 
 <!-- BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sri%20Krishna%20Uddala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Developer%20%7C%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sri%20Krishna%20Uddala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Cloud%20Developer%20%7C%20AI%20Builder&descSize=16&descAlignY=58&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sri%20Krishna%20Uddala&font[...]">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=Sri%20Krishna%20Uddala&fon[...]">
 </picture>
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/srikrishna-uddala">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sri+Krishna+%F0%9F%91%8B;Backend+Engineer+%26+Cloud+Developer;Building+AI-Powered+Systems;Python+%7C+Django+%7C+Flask+%7C+GCP+%7C+AWS" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sri+Krishna+%F0%9F%91%8B;Backe[...]">
 </a>
 
 <br/>
@@ -106,9 +106,9 @@ class SriKrishna:
 
 | Project | Description | Stack |
 |---|---|---|
-| [**AssetFlow**](https://github.com/srikrishna-uddala/AssetFlow-Enterprise-Asset-Resource-Management-System) | Enterprise asset management with RBAC, multi-stage workflows & 12+ tests | `Django 6.0` `REST API` `SQLite` `JS` |
-| [**Deepfake Detection**](https://github.com/srikrishna-uddala/REPLACE_DEEPFAKE_REPO) | Dual-branch neural network with Flask API, JWT, SSE & GradCAM explainability | `Flask` `EfficientNetV2` `OpenCV` |
-| [**Aadhaar Voting Portal**](https://github.com/srikrishna-uddala/REPLACE_VOTING_REPO) | Cloud-native biometric e-voting on GCP — 80% faster verification | `Flask` `GCP` `Cloud Vision API` `MySQL` |
+| [**AssetFlow**](https://github.com/srikrishna-uddala/AssetFlow-Enterprise-Asset-Resource-Management-System) | Enterprise asset management with RBAC, multi-stage workflows & 12+ tests | `Django [...]
+| [**Deepfake Detection**](https://github.com/srikrishna-uddala/REPLACE_DEEPFAKE_REPO) | Dual-branch neural network with Flask API, JWT, SSE & GradCAM explainability | `Flask` `EfficientNetV2` `O[...]
+| [**Aadhaar Voting Portal**](https://github.com/srikrishna-uddala/REPLACE_VOTING_REPO) | Cloud-native biometric e-voting on GCP — 80% faster verification | `Flask` `GCP` `Cloud Vision API` `My[...]
 | [**SentinelForge AI**](https://github.com/srikrishna-uddala/REPLACE_SENTINELFORGE_REPO) | Document forgery detection with ELA + OCR for banking underwriting | `Python` `Computer Vision` `OCR` |
 
 </div>
@@ -119,15 +119,15 @@ class SriKrishna:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srikrishna-uddala&theme=radical&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0&currStreakNum=ffffff&sideNums=ffffff&background=0d1117" alt="GitHub Streak" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srikrishna-uddala&theme=radical&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=EF93C4&sideLabels=EF93C4&dates=F8BBD0&cur[...]"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=srikrishna-uddala&show_icons=true&theme=radical&hide_border=true&icon_color=EF93C4&title_color=EF93C4&text_color=F8BBD0&bg_color=0d1117&count_private=true&hide=prs&rank_icon=github" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srikrishna-uddala&show_icons=true&theme=radical&hide_border=true&icon_color=EF93C4&title_color=EF93C4&text_color=F8BBD0&bg_color=0d11[...]"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikrishna-uddala&layout=compact&theme=radical&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0d1117&langs_count=6" alt="Top Languages" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikrishna-uddala&layout=compact&theme=radical&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0d1117&langs[...]"/>
 
 </div>
 
@@ -136,7 +136,7 @@ class SriKrishna:
 <!-- ACTIVITY GRAPH -->
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srikrishna-uddala&bg_color=0d1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&area_color=EF93C4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srikrishna-uddala&bg_color=0d1117&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&hide_border=true&area_color=EF9[...]"/>
 
 </div>
 
@@ -144,41 +144,22 @@ class SriKrishna:
 
 ## 🐍 Contribution Snake
 
-<!-- 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Add this GitHub Action to generate the snake automatically  ║
-  ║  Path: .github/workflows/snake.yml                           ║
-  ╚══════════════════════════════════════════════════════════════╝
-
-  name: Generate Snake
-  on:
-    schedule:
-      - cron: "0 0 * * *"
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: srikrishna-uddala
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Sri Krishna's GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/srikrishna-uddala/srikrishna-uddala/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
